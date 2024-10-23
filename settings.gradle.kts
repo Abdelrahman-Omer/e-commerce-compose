@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "E-Commerce-Compose"
 include(":app")
+include(":features")
+include(":features:login")
+include(":features:home")
