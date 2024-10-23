@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.abdo.e_commerce_compose.customer.google",
+  "variantName": "customerGoogleRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0.0-customer-google",
+      "outputFile": "app-customer-google-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

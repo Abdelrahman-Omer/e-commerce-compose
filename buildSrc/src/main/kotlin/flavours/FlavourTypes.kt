@@ -1,0 +1,8 @@
+package flavours
+
+object FlavourTypes {
+    const val GOOGLE = "google"
+    const val HUAWEI = "huawei"
+    const val DRIVER = "driver"
+    const val CUSTOMER = "customer"
+}
